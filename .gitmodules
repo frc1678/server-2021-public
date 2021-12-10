@@ -4,3 +4,6 @@
 [submodule "schema-2021"]
 	path = schema-2021
 	url = https://github.com/frc1678/schema-2021.git
+[submodule "schema-2021-public"]
+	path = schema-2021-public
+	url = https://github.com/frc1678/schema-2021-public.git
