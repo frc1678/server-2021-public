@@ -18,3 +18,5 @@ bash/zsh). Instructions for other shells, along with more in-depth information a
 found [here](https://docs.python.org/3/library/venv.html).
 
 To run the server in production mode on linux or MacOS make sure to run `export SCOUTING_SERVER_ENV=production`, to take the server out of production mode run, `unset SCOUTING_SERVER_ENV`
+
+[Powered by The Blue Alliance](https://www.thebluealliance.com/)
